@@ -1,0 +1,21 @@
+routing:
+- routing best agent
+- conversational
+- goes through here first
+
+mail:
+- Outlook mail / calendar
+
+Directions:
+- Google mapsH
+
+knowledge:
+- brave search
+
+fitness:
+- nutrition 
+- strava
+
+
+
+
